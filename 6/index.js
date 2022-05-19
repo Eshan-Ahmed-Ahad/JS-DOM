@@ -1,15 +1,17 @@
-// let div = document.createElement("div"); 
-// div.className = "EshanClass";
-// div.id = "EshanID"
+let div = document.createElement("div"); 
+div.className = "EshanClass";
+div.id = "EshanID"
 
-// // let text = document.createTextNode("Inner text Into the Div");
-// // div.appendChild(text)
+// let text = document.createTextNode("Inner text Into the Div");
+// div.appendChild(text)
 
-// let h1 = document.createElement("h1"); 
-// h1.textContent = "Inner h1 tag text";
-// div.appendChild(h1)
+let h1 = document.createElement("h1"); 
+h1.textContent = "Inner h1 tag text";
+div.appendChild(h1)
 
-// document.body.appendChild(div)
+document.body.appendChild(div)
+
+
 
 let ul =  document.createElement("ul");
 ul.id = "menu"; 
