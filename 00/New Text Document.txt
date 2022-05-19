@@ -1,0 +1,29 @@
+Assalamualaykum,  আমরা অনেক দিন ধরে JavaScript, ES6 এই জিনিস গুলো শিখেছি কিন্তু সবার মনে একটাই Question ছিল সেটা হলো Javscript ব্যবহার করে ওয়েবসাইট বানাবো কিভাবে ?
+বা আমরা যে জিনিস গুলো সিখেছি সেই জিনিস গুলো ব্যবহার করে ওয়েব পেজে শো করাবো কিভাবে ? অর্থাৎ আমাদের এইচটিএমএল পেজের সাথে JS এর Romantic Relasion কিভাবে করাবো  । 
+যে  প্রশ্নটা প্রাই সকল নতুন Javascript Developer দের মাথাই ঘুরতেই থাকে। এটার সহজ উত্তর হচ্ছে HTML DOM এর মাধ্যমে।  so ekhon amader quesion hote pare 
+
+What IS HTML DOM ? 
+DOM এর ফুল মিনিং হচ্ছে  Document Object Model. যেটা JS এর সব থেকে গুরুত্তপূর্ণ ফিচারস।  আমাদের Dom জানার আগে এটা জানতে হবে document Object মডেল কি ?
+
+
+DOM হলো ওয়েব পেজের জন্য একটি প্রোগ্রামিং ইন্টারফেস যেটা একটা ওয়েব পেজের  content পরিবর্তন করে দিতে পারে। এটা হতে পারে html এর elements, CSS এর style. 
+HTML er Actribute Ba Tag.  
+আমরা JS এর Dom এর সাহায্য যেমন ওয়েব পেজের সব কিছু পরিবর্তন করতে পারবো ঠিক সেম ভাবে ডাইনামিকালি Tag, Acctrubite , ba Style Add এবং ডিলিট o Korte parbo. 
+
+অর্থাৎ আমরা এইচটিএমএল পেজের সাথে এই ডোম দিয়ে ২ টার মধ্য সংযোগ স্থাপন করতে পারবো। 
+
+W3C এর মতে সাধারণত ৩ ধরনের ডোম দেখা যায়। 
+1.Core DOM
+2.XML DOM 
+3.HTML DOM 
+
+আমরা মূলত এই কোর্সে HTML DOM নিয়ে কথা বলবো ।  আমাদের HTML DOm কে  define করার জন্য এই ৪ টি জিনিস থাকে ১. objects ২. properties ৩.methods  ৪.events 
+
+আমরা আমাদের এই কোর্সে আপনাদের স্টেপ বাই স্টেপ ডোমের প্রত্যেকটা Method, Event ebon Functionality নিয়ে Example সহকারে কথা বলবো।  সেই সাথে এই কোর্স থেকেই আপনাকে Documention
+পরতে অভস্ত করে দিবো জেনো পরবর্তীতে নতুন কোন update আসলেই আপনি নিজেই documetion দেখে দেখে শিখতে পারেন।  আমি মনে করে একজন Developer এর জন্য এই গুন টা অনেক বেসি গুরুত্তপূর্ণ
+তাই এই কোর্স টি শুধু মাত্র তারাই ফলো করবেন জারা আমার সাথে সাথে ভিডিও দেখে প্রাকটিস করবেন এবং আমি জেভাবে Documetion  ফলো করি ঠিক সেম ভাবে আপনিও সমস্যাই পরলেই documetion e giye
+solved করবেন।  
+
+আমি মূলত এই কোর্সে w3schools, MDN & JavascriptTutorial.net এর documetion follow করে আপনাদের শেখাবো । ভিডিও description এ ওয়েবসাইট গুলোর লিংক দেওয়া থাকবে।
+আর হ্যাঁ আমাদের এই ভিডিওর লাইক টার্গেট রইলো ৫০০ টি। টার্গেট যত তারাতারি ফুলফিল করবেন আমি ঠিক তত তারাতারি DOm এর Tutorial Upload করা শুরু করবো। so ei course ta depend korbe
+apnader like comment er activity r opore. So Hit The Like Icon & press The Subscibe Button. Take A Risk. 

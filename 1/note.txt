@@ -1,0 +1,26 @@
+What is Dom- Document Object Model
+
+1. Select HTML Element Using DOM 
+
+getElementByID()
+getElementsByClassName() 
+getElementsByName()
+getElementsByTagName()
+
+QuarrySelector() 
+QuarrySelectorAll() 
+
+
+
+
+
+
+
+
+
+
+Funally - getElementByID()
+
+Value Changeing = 
+innerHTML = 
+InnerText 
