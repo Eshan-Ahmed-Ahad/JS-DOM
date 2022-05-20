@@ -1,6 +1,6 @@
-let menu = document.querySelector("#Menu");
-let li = document.createElement("li"); 
+let menu =  document.querySelector("#menu"); 
 
-li.textContent = "Home";
+let li = document.createElement("li");
+li.textContent = "Home"; 
 
-menu.insertBefore(li,menu.firstElementChild )
+menu.insertBefore(li,menu.firstElementChild)
