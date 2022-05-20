@@ -12,15 +12,3 @@ QuarrySelectorAll()
 
 
 
-
-
-
-
-
-
-
-Funally - getElementByID()
-
-Value Changeing = 
-innerHTML = 
-InnerText 
