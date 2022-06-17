@@ -1,24 +1,24 @@
 let btn = document.querySelector("#btn"); 
 
-// let div = document.querySelector("div"); 
-// div.id = "menu"
+let div = document.querySelector("div"); 
+div.id = "menu"
 
 
 // setAttribute
-// let btn  = document.querySelector("#btn"); 
-// if(btn){
-//     btn.setAttribute("class", "eshan");
-// } 
+
+if(btn){
+    btn.setAttribute("class", "eshan");
+} 
 
 
 // getattribute
-//     console.log(btn.getAttribute("class"));
+    console.log(btn.getAttribute("class"));
 
 
 // RemoveAttribute
-// let Removebutton  = btn.hasAttribute("target") 
+let Removebutton  = btn.hasAttribute("target") 
 
-// console.log(Removebutton);
+console.log(Removebutton);
 
 
 //hasAttribute
