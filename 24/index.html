@@ -8,7 +8,26 @@
 </head>
 <body>
 
+<h1>hello world</h1>
 
-    <script src="index.js"></script>
+
+
+<script>
+    //    document.addEventListener("DOMContentLoaded", (e)=> {
+    //     alert("DOM Is Fully Loaded")
+    //    })
+
+
+    // addEventListener("load", ()=>{
+    //     alert("Content Is Loaded")
+    // })
+
+
+addEventListener("beforeunload", (e)=> {
+    e.preventDefault(); 
+    e.returnValue = ''
+})
+</script>
+
 </body>
 </html>
